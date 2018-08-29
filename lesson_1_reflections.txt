@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I could easily see which lines were different and that meant that it was 
+    easier to spot the mistake.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If I make serious mistakes it means I can easily go back to how it was
+    when it was all working well. Also if 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros are that you can decide when a commit is meaningful and you can specify 
+    exactly what changes you made so that it's easier to look back later and understand 
+    what you did. 
+
+    The cons are that if you forget to save and you make a big boo boo then you're 
+    in trouble and might have to start the whole project from scratch.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because with code you can write a method and then use that method in a different 
+    file. Or like you can create something in xml and then refer to it in java.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log will show a list of the recent commits with information about them including
+    commite IDs which you can then copy and paste after git diff in order to compare the two versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I would no longer be afraid to break the code as I would be able to go back to a previous version if I broke it real bad. This means that I will have the confidence to try stuff without the fear.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Version control for android apps I would like to make.
