@@ -4,3 +4,8 @@ local?
     Definitely when collaborating with others or when asking for help from others
     so that they can see the full context of the code. Also when creating something
     that could be useful to others and turning it into something that is open source.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+    You could potentially be making a large change that you wouldn't want your 
+    collaborators to see until after you had verified that it works.
