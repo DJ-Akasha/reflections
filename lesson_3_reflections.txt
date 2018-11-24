@@ -18,3 +18,10 @@ Describe the differences between forks, clones, and branches. When would you use
 	when two or more versions of the code need to be different for example, one 
 	branch is for adding a new feature that the developer isn't sure will actually
 	work.
+
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+	
+	If then there are any changes made by collaborators there will be a minimal
+	amount of conflicts and therefore easier to resolve when merging your code
+	to theirs.  
