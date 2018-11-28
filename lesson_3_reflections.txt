@@ -38,3 +38,16 @@ would be harder?
 	dropbox or something and the likelihood of things getting lost or going wrong 
 	is very high. I can't really thing of anything that might be easier. I think 
 	it would just be really hard not to use Git and/or GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	If you're working in a collaborative project then you will want to only make 
+	changes in your own branch before committing them just in case you get halfway
+	through and realise that it doesn't work or you decide to change it completely.
+	You could also use a separate branch for your own projects where you might decide
+	to add a new feature but aren't sure if it is the right thing to do.
+
+	The benefits would be to avoid getting to a point where you've made many different
+	changes and commits and realising that the new feature isn't going to work. It
+	would be a nightmare to deal with if that was the case.
