@@ -5,12 +5,14 @@ local?
     so that they can see the full context of the code. Also when creating something
     that could be useful to others and turning it into something that is open source.
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
 
     You could potentially be making a large change that you wouldn't want your 
     collaborators to see until after you had verified that it works.
 
-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
 
 	Forks are only used in the context of GitHub and are essentially like cloning. 
 	Clones are copies of repositories or directories. Branches are part of the same
@@ -25,3 +27,14 @@ locally?
 	If then there are any changes made by collaborators there will be a minimal
 	amount of conflicts and therefore easier to resolve when merging your code
 	to theirs.  
+
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+
+	It would be very difficult to do without a system like Git and GitHub. There
+	are other systems out there which I will not delve into for this exercise as
+	I think the question is asking how would you cope if you had to use traditional
+	sharing of files. It would be a nightmare! Files would be shared using email or
+	dropbox or something and the likelihood of things getting lost or going wrong 
+	is very high. I can't really thing of anything that might be easier. I think 
+	it would just be really hard not to use Git and/or GitHub.
